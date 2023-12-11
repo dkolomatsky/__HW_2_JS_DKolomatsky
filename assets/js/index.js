@@ -64,3 +64,4 @@ for(let i = 1; i < num2; i++) {
   }
   document.write('<br>');
 }
+document.write('<hr>');
